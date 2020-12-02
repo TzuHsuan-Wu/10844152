@@ -86,7 +86,7 @@ header {
 .quote {
   position: absolute;
   width: 240px;
-  bottom: 20px;
+  bottom: -90px;
   padding: 10px;
   padding-left: 17%;
   display: flex;
